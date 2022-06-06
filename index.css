@@ -1,0 +1,52 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.displayVariable {
+    height: 120px;
+    background-image: linear-gradient(
+        225deg,
+        hsl(240deg 100% 57%) 0%,
+        hsl(273deg 100% 45%) 11%,
+        hsl(289deg 100% 40%) 23%,
+        hsl(304deg 100% 37%) 34%,
+        hsl(315deg 100% 40%) 46%,
+        hsl(324deg 100% 42%) 57%,
+        hsl(330deg 100% 43%) 68%,
+        hsl(335deg 100% 43%) 79%,
+        hsl(340deg 100% 43%) 90%,
+        hsl(343deg 100% 42%) 100%
+    );
+    color: white;
+    padding-top: 25px;
+    padding-bottom: 30px;
+}
+
+.displayVariable h3 {
+    margin-top: 0;
+}
+
+.unitNumber {
+    width: 250px;
+    font-size: 4em;
+    background-color: transparent;
+    border: none;
+    border-bottom: 10px solid white;
+    color: white;    
+}
+
+.displayConversion {
+    background-color: #2D2D34;
+    color: white;
+    padding: 30px 0;
+}
+
+.displayConversion h4 {
+    margin: 0;
+}
+
+.displayConversion p {
+    margin-bottom: 30px;
+}
