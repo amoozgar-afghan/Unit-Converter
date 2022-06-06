@@ -5,7 +5,7 @@ html, body {
 }
 
 .displayVariable {
-    height: 120px;
+    min-height: 120px;
     background-image: linear-gradient(
         225deg,
         hsl(240deg 100% 57%) 0%,
