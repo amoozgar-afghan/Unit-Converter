@@ -1,4 +1,4 @@
-# title(){return this.options.title||this.options.name}
+# Solo Project Unit converter
 
 ## Supporting Scrimba
 
